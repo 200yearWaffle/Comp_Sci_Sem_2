@@ -1,0 +1,5 @@
+x = int(5)
+y = int(3)
+print("The first number is: " + str(x))
+print("The second number is: " + str(y))
+print("The product is: " + str(x*y))
